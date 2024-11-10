@@ -14,7 +14,7 @@ int* fun()
 
 int main()
 {
-	
+	int a = 2;
 	int* p=fun();
 	cout << *p;
 
